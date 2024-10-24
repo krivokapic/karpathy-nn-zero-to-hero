@@ -5,3 +5,4 @@
 /venv
 *.cfg
 .venv
+.ipynb_checkpoints
