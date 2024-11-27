@@ -6,3 +6,4 @@
 *.cfg
 .venv
 .ipynb_checkpoints
+.ods
